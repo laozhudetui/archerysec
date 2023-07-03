@@ -1,7 +1,7 @@
 argcomplete==1.9.3
 asn1crypto==0.23.0
 astroid==1.6.6
-awscli==1.16.188
+awscli==1.27.90
 backports.csv==1.0.7
 backports.functools-lru-cache==1.5
 beautifulsoup4==4.7.1
@@ -79,7 +79,7 @@ PyBurprestapi==0.4
 pycparser==2.18
 PyJWT==1.6.1
 pylint==1.9.3
-PyPDF2==1.26.0
+PyPDF2==1.27.9
 Pyphen==0.9.4
 python-dateutil==2.6.1
 python-nmap==0.6.1
